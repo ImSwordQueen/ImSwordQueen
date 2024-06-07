@@ -1,11 +1,11 @@
 Hello! I'm ImSwordQueen and i like doing stuff on the web
 
 This is my github profile. You can find me on these other platforms as well:
-Discord
-Youtube
-Twitter
-DeviantArt
-(Ew) Reddit
+- Discord
+- Youtube
+- Twitter
+- DeviantArt
+- (Ew) Reddit
 
 Windows 8.1 + Beautyfox = <3
 
