@@ -22,18 +22,3 @@ Some of the projects i worked on:&nbsp;
 
 \mmlToken{ms}[fontfamily="goombafont; box-sizing: border-box; pointer-events: none; z-index: 3; position: fixed; top: 0; right: 0; height: 100%; width: 100%; background-image: url('https://raw.githubusercontent.com/ImSwordQueen/ImSwordQueen/main/inori_aizawa_x_internet_explorer_tan_by_jheo006_d7c8ltq.gif?raw=true'); background-position: bottom 1.5em left 7em; background-repeat: no-repeat; backdrop-filter: none;"]{}
 ```
-```math
-
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: 2;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-z-index: 0;
-backdrop-filter: hue-rotate(40deg);
-"]{}
-```
