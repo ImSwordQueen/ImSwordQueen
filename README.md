@@ -12,7 +12,7 @@ You can find me on these other platforms as well:
 
 Some of the projects i worked on:
 - [Win8to7](https://www.deviantart.com/imswordking/art/916171789)
-- [Win10to7](https://www.deviantart.com/imswordking/art/1047772827)
+- [Win10to7](https://www.deviantart.com/imswordqueeen/art/1081353677)
 
 &#8202; &hairsp;
 
