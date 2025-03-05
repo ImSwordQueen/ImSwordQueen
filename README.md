@@ -6,6 +6,7 @@ You can find me on these other platforms as well:
 - Discord: ImSwordQueen
 - [Youtube](https://www.youtube.com/@ImSwordQueen/): @ImSwordQueen
 - [Twitter](https://x.com/ImSwordQueen): @ImSwordQueen
+- [Bluesky](https://bsky.app/profile/imswordqueen.is-extremely.gay/): @imswordqueen.is-extremely.gay
 - [DeviantArt](https://www.deviantart.com/imswordqueeen): ImSwordQueeen
 
 &#8202; &hairsp;
